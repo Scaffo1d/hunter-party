@@ -1,0 +1,406 @@
+{
+  "common": [
+    {
+      "id": "amateur-assassin",
+      "name": "Amateur Assassin",
+      "artFile": "Amateur Assassin.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "berserking-bear",
+      "name": "Berserking Bear",
+      "artFile": "Berserking Bear.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "blind-alchemist",
+      "name": "Blind Alchemist",
+      "artFile": "Blind Alchemist.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "exiled-hedge-knight",
+      "name": "Exiled Hedge Knight",
+      "artFile": "Exiled Hedge Knight.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "goblin-brute",
+      "name": "Goblin Brute",
+      "artFile": "Goblin Brute.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "mutated-sheep",
+      "name": "Mutated Sheep",
+      "artFile": "Mutated Sheep.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "naga-sorceress",
+      "name": "Naga Sorceress",
+      "artFile": "Naga Sorceress.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "old-tank-the-came-alive",
+      "name": "Old Tank the Came Alive",
+      "artFile": "Old Tank the Came Alive.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "pack-of-wolves",
+      "name": "Pack of Wolves",
+      "artFile": "Pack of Wolves.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "skeleton-in-catacombs",
+      "name": "Skeleton in Catacombs",
+      "artFile": "Skeleton in Catacombs.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "swamp-horror",
+      "name": "Swamp Horror",
+      "artFile": "Swamp Horror.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "toothless-wyvern",
+      "name": "Toothless Wyvern",
+      "artFile": "Toothless Wyvern.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "tunneling-snakes",
+      "name": "Tunneling Snakes",
+      "artFile": "Tunneling Snakes.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "wild-rhino",
+      "name": "Wild Rhino",
+      "artFile": "Wild Rhino.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "witch-with-snacks",
+      "name": "Witch with Snacks",
+      "artFile": "Witch with Snacks.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "woodland-bandits",
+      "name": "Woodland Bandits",
+      "artFile": "Woodland Bandits.png",
+      "tier": "common",
+      "hp": 12,
+      "str": 10,
+      "dex": 10
+    }
+  ],
+  "rare": [
+    {
+      "id": "ashenhoof-behemeth",
+      "name": "Ashenhoof Behemeth",
+      "artFile": "Ashenhoof Behemeth.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "corrupted-warlord",
+      "name": "Corrupted Warlord",
+      "artFile": "Corrupted Warlord.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "emberhail-ravager",
+      "name": "Emberhail Ravager",
+      "artFile": "Emberhail Ravager.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "frostvein-lich",
+      "name": "Frostvein Lich",
+      "artFile": "Frostvein Lich.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "gravecoil-stalker",
+      "name": "Gravecoil Stalker",
+      "artFile": "Gravecoil Stalker.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "hexroot-matriarch",
+      "name": "Hexroot Matriarch",
+      "artFile": "Hexroot Matriarch.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "ironmaw-champion",
+      "name": "Ironmaw Champion",
+      "artFile": "Ironmaw Champion.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "nightwing-sharpshooter",
+      "name": "Nightwing Sharpshooter",
+      "artFile": "Nightwing Sharpshooter.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "riftborn-duelist",
+      "name": "Riftborn Duelist",
+      "artFile": "Riftborn Duelist.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "turin-s-disciple",
+      "name": "Turin's Disciple",
+      "artFile": "Turin's Disciple.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "unchained-colossus",
+      "name": "Unchained Colossus",
+      "artFile": "Unchained Colossus.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "yreli-s-hydra",
+      "name": "Yreli's Hydra",
+      "artFile": "Yreli's Hydra.png",
+      "tier": "rare",
+      "hp": 18,
+      "str": 10,
+      "dex": 10
+    }
+  ],
+  "epic": [
+    {
+      "id": "corvin",
+      "name": "Corvin",
+      "artFile": "Corvin.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "morgash",
+      "name": "Morgash",
+      "artFile": "Morgash.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "nyra-the-wolf",
+      "name": "Nyra the Wolf",
+      "artFile": "Nyra the Wolf.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "orien",
+      "name": "Orien",
+      "artFile": "Orien.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "seryth",
+      "name": "Seryth",
+      "artFile": "Seryth.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "silas",
+      "name": "Silas",
+      "artFile": "Silas.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "sir-kaeldran",
+      "name": "Sir Kaeldran",
+      "artFile": "Sir Kaeldran.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "vaelor-the-abyss-herald",
+      "name": "Vaelor, The Abyss Herald",
+      "artFile": "Vaelor, The Abyss Herald.png",
+      "tier": "epic",
+      "hp": 24,
+      "str": 10,
+      "dex": 10
+    }
+  ],
+  "relic": [
+    {
+      "id": "archmage-turin",
+      "name": "Archmage Turin",
+      "artFile": "Archmage Turin.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "bokrok",
+      "name": "Bokrok",
+      "artFile": "Bokrok.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "goam",
+      "name": "Goam",
+      "artFile": "Goam.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "kaliagos",
+      "name": "Kaliagos",
+      "artFile": "Kaliagos.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "klogon",
+      "name": "Klogon",
+      "artFile": "Klogon.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "mathis",
+      "name": "Mathis",
+      "artFile": "Mathis.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "rebel-king-clovis",
+      "name": "Rebel King Clovis",
+      "artFile": "Rebel King Clovis.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    },
+    {
+      "id": "yrelis",
+      "name": "Yrelis",
+      "artFile": "Yrelis.png",
+      "tier": "relic",
+      "hp": 30,
+      "str": 10,
+      "dex": 10
+    }
+  ]
+}

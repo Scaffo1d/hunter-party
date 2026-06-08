@@ -1,0 +1,505 @@
+{
+  "common": [
+    {
+      "id": "bandages-with-runes",
+      "name": "Bandages with Runes",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Bandages with Runes.png"
+    },
+    {
+      "id": "basic-rapier",
+      "name": "Basic Rapier",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Basic Rapier.png"
+    },
+    {
+      "id": "battered-gloves",
+      "name": "Battered Gloves",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Battered Gloves.png"
+    },
+    {
+      "id": "battered-knight-s-armor",
+      "name": "Battered Knight's Armor",
+      "type": "armor",
+      "tier": "common",
+      "artFile": "Battered Knight's Armor.png"
+    },
+    {
+      "id": "blissful-necklace",
+      "name": "Blissful Necklace",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Blissful Necklace.png"
+    },
+    {
+      "id": "brass-knuckles",
+      "name": "Brass Knuckles",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Brass Knuckles.png"
+    },
+    {
+      "id": "cannibal-s-armband",
+      "name": "Cannibal's Armband",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Cannibal's Armband.png"
+    },
+    {
+      "id": "carribean-delight",
+      "name": "Carribean Delight",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Carribean Delight.png"
+    },
+    {
+      "id": "fortune-teller-s-necklace",
+      "name": "Fortune Teller's Necklace",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Fortune Teller's Necklace.png"
+    },
+    {
+      "id": "huntsman-knife",
+      "name": "Huntsman Knife",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Huntsman Knife.png"
+    },
+    {
+      "id": "lether-vest",
+      "name": "Lether Vest",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Lether Vest.png"
+    },
+    {
+      "id": "messenger-s-robe",
+      "name": "Messenger's Robe",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Messenger's Robe.png"
+    },
+    {
+      "id": "military-boots",
+      "name": "Military Boots",
+      "type": "boots",
+      "tier": "common",
+      "artFile": "Military Boots.png"
+    },
+    {
+      "id": "miner-s-boots",
+      "name": "Miner's Boots",
+      "type": "boots",
+      "tier": "common",
+      "artFile": "Miner's Boots.png"
+    },
+    {
+      "id": "miner-s-pickaxe",
+      "name": "Miner's Pickaxe",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Miner's Pickaxe.png"
+    },
+    {
+      "id": "naga-s-necklace",
+      "name": "Naga's Necklace",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Naga's Necklace.png"
+    },
+    {
+      "id": "novice-staff",
+      "name": "Novice Staff",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Novice Staff.png"
+    },
+    {
+      "id": "novice-wizard-s-boots",
+      "name": "Novice Wizard's Boots",
+      "type": "boots",
+      "tier": "common",
+      "artFile": "Novice Wizard's Boots.png"
+    },
+    {
+      "id": "oak-longbow",
+      "name": "Oak Longbow",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Oak Longbow.png"
+    },
+    {
+      "id": "old-wand",
+      "name": "Old Wand",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Old Wand.png"
+    },
+    {
+      "id": "old-coin-amulet",
+      "name": "Old coin Amulet",
+      "type": "charm",
+      "tier": "common",
+      "artFile": "Old coin Amulet.png"
+    },
+    {
+      "id": "plain-broadsword",
+      "name": "Plain Broadsword",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Plain Broadsword.png"
+    },
+    {
+      "id": "rusted-mail",
+      "name": "Rusted Mail",
+      "type": "armor",
+      "tier": "common",
+      "artFile": "Rusted Mail.png"
+    },
+    {
+      "id": "scout-s-bow",
+      "name": "Scout's Bow",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Scout's Bow.png"
+    },
+    {
+      "id": "stargazer-s-robe",
+      "name": "Stargazer's Robe",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Stargazer's Robe.png"
+    },
+    {
+      "id": "traveler-s-boots",
+      "name": "Traveler's Boots",
+      "type": "boots",
+      "tier": "common",
+      "artFile": "Traveler's Boots.png"
+    },
+    {
+      "id": "traveler-s-cloak",
+      "name": "Traveler's Cloak",
+      "type": "weapon",
+      "tier": "common",
+      "artFile": "Traveler's Cloak.png"
+    },
+    {
+      "id": "voyager-s-boots",
+      "name": "Voyager's Boots",
+      "type": "boots",
+      "tier": "common",
+      "artFile": "Voyager's Boots.png"
+    },
+    {
+      "id": "workman-s-armor",
+      "name": "Workman's Armor",
+      "type": "armor",
+      "tier": "common",
+      "artFile": "Workman's Armor.png"
+    }
+  ],
+  "rare": [
+    {
+      "id": "archmage-s-grimoire",
+      "name": "Archmage's Grimoire",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Archmage's Grimoire.png"
+    },
+    {
+      "id": "cloudborne-sebatons",
+      "name": "Cloudborne Sebatons",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Cloudborne Sebatons.png"
+    },
+    {
+      "id": "demonfyre-tattoos",
+      "name": "Demonfyre Tattoos",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Demonfyre Tattoos.png"
+    },
+    {
+      "id": "dragonbinder-s-staff",
+      "name": "Dragonbinder's Staff",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Dragonbinder's Staff.png"
+    },
+    {
+      "id": "duelist-s-shortsword",
+      "name": "Duelist's Shortsword",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Duelist's Shortsword.png"
+    },
+    {
+      "id": "embertail-treads",
+      "name": "Embertail Treads",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Embertail Treads.png"
+    },
+    {
+      "id": "frostfang-dagger",
+      "name": "Frostfang Dagger",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Frostfang Dagger.png"
+    },
+    {
+      "id": "gladiator-s-steel-boots",
+      "name": "Gladiator's Steel Boots",
+      "type": "boots",
+      "tier": "rare",
+      "artFile": "Gladiator's Steel Boots.jpg"
+    },
+    {
+      "id": "goldpetal-amulet",
+      "name": "Goldpetal Amulet",
+      "type": "charm",
+      "tier": "rare",
+      "artFile": "Goldpetal Amulet.png"
+    },
+    {
+      "id": "goldsteel-alloy-plate",
+      "name": "Goldsteel Alloy Plate",
+      "type": "armor",
+      "tier": "rare",
+      "artFile": "Goldsteel Alloy Plate.png"
+    },
+    {
+      "id": "jokers-boots",
+      "name": "Jokers Boots",
+      "type": "boots",
+      "tier": "rare",
+      "artFile": "Jokers Boots.png"
+    },
+    {
+      "id": "king-s-robe",
+      "name": "King's Robe",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "King's Robe.jpg"
+    },
+    {
+      "id": "mirecleansing-boots",
+      "name": "Mirecleansing Boots",
+      "type": "boots",
+      "tier": "rare",
+      "artFile": "Mirecleansing Boots.png"
+    },
+    {
+      "id": "oaksteel-bracelet",
+      "name": "Oaksteel Bracelet",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Oaksteel Bracelet.png"
+    },
+    {
+      "id": "obsidian-plate",
+      "name": "Obsidian Plate",
+      "type": "armor",
+      "tier": "rare",
+      "artFile": "Obsidian Plate.png"
+    },
+    {
+      "id": "phoenix-wand",
+      "name": "Phoenix Wand",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Phoenix Wand.jpg"
+    },
+    {
+      "id": "riftforged-halberd",
+      "name": "Riftforged Halberd",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Riftforged Halberd.png"
+    },
+    {
+      "id": "shadowsilk-robe",
+      "name": "Shadowsilk Robe",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Shadowsilk Robe.png"
+    },
+    {
+      "id": "starchaser-s-locket",
+      "name": "Starchaser's Locket",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Starchaser's Locket.png"
+    },
+    {
+      "id": "stormbreaker-hammer",
+      "name": "Stormbreaker Hammer",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Stormbreaker Hammer.png"
+    },
+    {
+      "id": "sword-of-the-banished",
+      "name": "Sword of the Banished",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Sword of the Banished.png"
+    },
+    {
+      "id": "thornroot-carapace",
+      "name": "Thornroot Carapace",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Thornroot Carapace.png"
+    },
+    {
+      "id": "voidglass-rapier",
+      "name": "Voidglass Rapier",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Voidglass Rapier.png"
+    },
+    {
+      "id": "wise-witch-s-token",
+      "name": "Wise Witch's Token",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Wise Witch's Token.png"
+    },
+    {
+      "id": "wood-elves-hunting-bow",
+      "name": "Wood elves' Hunting Bow",
+      "type": "weapon",
+      "tier": "rare",
+      "artFile": "Wood elves' Hunting Bow.jpg"
+    }
+  ],
+  "epic": [
+    {
+      "id": "55-starfall",
+      "name": "55_starfall",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "55_starfall.png"
+    },
+    {
+      "id": "56-nightwarden",
+      "name": "56_nightwarden",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "56_nightwarden.png"
+    },
+    {
+      "id": "57-stormwhisper",
+      "name": "57_stormwhisper",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "57_stormwhisper.png"
+    },
+    {
+      "id": "58-honosensu",
+      "name": "58_honosensu",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "58_honosensu.png"
+    },
+    {
+      "id": "59-kingsbane",
+      "name": "59_kingsbane",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "59_kingsbane.png"
+    },
+    {
+      "id": "60-nyx",
+      "name": "60_nyx",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "60_nyx.png"
+    },
+    {
+      "id": "61-bolgrinn",
+      "name": "61_bolgrinn",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "61_bolgrinn.png"
+    },
+    {
+      "id": "62-ravin",
+      "name": "62_ravin",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "62_ravin.png"
+    },
+    {
+      "id": "63-magnus",
+      "name": "63_magnus",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "63_magnus.png"
+    },
+    {
+      "id": "64-tidestone",
+      "name": "64_tidestone",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "64_tidestone.png"
+    },
+    {
+      "id": "65-echocharm",
+      "name": "65_echocharm",
+      "type": "charm",
+      "tier": "epic",
+      "artFile": "65_echocharm.png"
+    },
+    {
+      "id": "66-sirius-shard",
+      "name": "66_sirius_shard",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "66_sirius_shard.png"
+    },
+    {
+      "id": "67-famuto",
+      "name": "67_famuto",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "67_famuto.png"
+    },
+    {
+      "id": "68-rowan",
+      "name": "68_rowan",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "68_rowan.png"
+    },
+    {
+      "id": "69-vesper",
+      "name": "69_vesper",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "69_vesper.png"
+    },
+    {
+      "id": "70-mirage",
+      "name": "70_mirage",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "70_mirage.png"
+    },
+    {
+      "id": "71-fenris",
+      "name": "71_fenris",
+      "type": "weapon",
+      "tier": "epic",
+      "artFile": "71_fenris.png"
+    }
+  ]
+}

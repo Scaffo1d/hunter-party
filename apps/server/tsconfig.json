@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "paths": {
+      "@hunter-party/game-engine": ["../../packages/game-engine/src"],
+      "@hunter-party/game-engine/*": ["../../packages/game-engine/src/*"],
+      "@hunter-party/game-engine/state": ["../../packages/game-engine/src/game/state.ts"],
+      "@hunter-party/game-engine/actions": ["../../packages/game-engine/src/game/actions.ts"],
+      "@hunter-party/game-engine/types": ["../../packages/game-engine/src/game/types.ts"]
+    }
+  },
+  "include": ["src/**/*.ts"]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "breath-of-kaliagos",
+    "name": "Breath of Kaliagos",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Breath of Kaliagos.png"
+  },
+  {
+    "id": "clovis-s-crown",
+    "name": "Clovis's Crown",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Clovis's Crown.png"
+  },
+  {
+    "id": "goam-s-djinn",
+    "name": "Goam's Djinn",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Goam's Djinn.png"
+  },
+  {
+    "id": "klogon-s-heart",
+    "name": "Klogon's Heart",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Klogon's Heart.png"
+  },
+  {
+    "id": "mathis-starshard",
+    "name": "Mathis' Starshard",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Mathis' Starshard.png"
+  },
+  {
+    "id": "orc-chief-s-totem",
+    "name": "Orc Chief's Totem",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Orc Chief's Totem.png"
+  },
+  {
+    "id": "turin-s-invisibiliy-charm",
+    "name": "Turin's Invisibiliy Charm",
+    "type": "charm",
+    "tier": "relic",
+    "artFile": "Turin's Invisibiliy Charm.jpg"
+  },
+  {
+    "id": "yreli-s-trident",
+    "name": "Yreli's Trident",
+    "type": "weapon",
+    "tier": "relic",
+    "artFile": "Yreli's Trident.png"
+  }
+]

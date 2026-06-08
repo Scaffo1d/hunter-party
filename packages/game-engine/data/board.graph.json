@@ -1,0 +1,1587 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "n1",
+      "x": 0.325589,
+      "y": 0.093123,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 1,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n2",
+      "x": 0.64228,
+      "y": 0.101011,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 2,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n3",
+      "x": 0.388194,
+      "y": 0.101361,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 3,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n4",
+      "x": 0.243797,
+      "y": 0.103501,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 4,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n5",
+      "x": 0.563492,
+      "y": 0.10768,
+      "tileType": "CA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 5,
+      "tileSize": 0.057661
+    },
+    {
+      "id": "n6",
+      "x": 0.173797,
+      "y": 0.115792,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 6,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n7",
+      "x": 0.453677,
+      "y": 0.122107,
+      "tileType": "S1",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": "S1",
+      "sequence": 7,
+      "tileSize": 0.026908
+    },
+    {
+      "id": "n8",
+      "x": 0.697974,
+      "y": 0.138524,
+      "tileType": "GA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 8,
+      "tileSize": 0.059308
+    },
+    {
+      "id": "n9",
+      "x": 0.116867,
+      "y": 0.139646,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 9,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n10",
+      "x": 0.402019,
+      "y": 0.160699,
+      "tileType": "T",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "white",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 10,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n11",
+      "x": 0.581041,
+      "y": 0.188626,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 11,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n12",
+      "x": 0.749696,
+      "y": 0.188803,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 12,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n13",
+      "x": 0.084982,
+      "y": 0.194794,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "blue",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 13,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n14",
+      "x": 0.35192,
+      "y": 0.211434,
+      "tileType": "C",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 14,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n15",
+      "x": 0.170454,
+      "y": 0.224887,
+      "tileType": "E",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 15,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n16",
+      "x": 0.797673,
+      "y": 0.241471,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 16,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n17",
+      "x": 0.063522,
+      "y": 0.244226,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 17,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n18",
+      "x": 0.661293,
+      "y": 0.254214,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 18,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n19",
+      "x": 0.311604,
+      "y": 0.260518,
+      "tileType": "R",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "yellow",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 19,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n20",
+      "x": 0.845116,
+      "y": 0.278915,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 20,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n21",
+      "x": 0.088741,
+      "y": 0.295455,
+      "tileType": "GA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 21,
+      "tileSize": 0.059308
+    },
+    {
+      "id": "n22",
+      "x": 0.679756,
+      "y": 0.302869,
+      "tileType": "R",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "yellow",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 22,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n23",
+      "x": 0.767797,
+      "y": 0.31422,
+      "tileType": "KF",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 23,
+      "tileSize": 0.052169
+    },
+    {
+      "id": "n24",
+      "x": 0.316947,
+      "y": 0.318124,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 24,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n25",
+      "x": 0.849323,
+      "y": 0.320829,
+      "tileType": "E",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "red",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 25,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n26",
+      "x": 0.12645,
+      "y": 0.34769,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 26,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n27",
+      "x": 0.645774,
+      "y": 0.353322,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 27,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n28",
+      "x": 0.821293,
+      "y": 0.364565,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 28,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n29",
+      "x": 0.371549,
+      "y": 0.379804,
+      "tileType": "TP",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "blue",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 29,
+      "tileSize": 0.051071
+    },
+    {
+      "id": "n30",
+      "x": 0.171541,
+      "y": 0.40208,
+      "tileType": "C",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 30,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n31",
+      "x": 0.793666,
+      "y": 0.406412,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 31,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n32",
+      "x": 0.59426,
+      "y": 0.407437,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "blue",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 32,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n33",
+      "x": 0.292978,
+      "y": 0.416608,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 33,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n34",
+      "x": 0.745538,
+      "y": 0.440618,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 34,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n35",
+      "x": 0.657109,
+      "y": 0.442181,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 35,
+      "tileSize": 0.04503
+    },
+    {
+      "id": "n36",
+      "x": 0.372996,
+      "y": 0.449766,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "red",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 36,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n37",
+      "x": 0.55253,
+      "y": 0.449947,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "green",
+      "isCrossroad": true,
+      "isStarting": null,
+      "sequence": 37,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n38",
+      "x": 0.4668,
+      "y": 0.453122,
+      "tileType": "R",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "yellow",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 38,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n39",
+      "x": 0.224931,
+      "y": 0.453871,
+      "tileType": "S2",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "blue",
+      "isCrossroad": true,
+      "isStarting": "S2",
+      "sequence": 39,
+      "tileSize": 0.050522
+    },
+    {
+      "id": "n40",
+      "x": 0.721993,
+      "y": 0.482681,
+      "tileType": "S4",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "blue",
+      "isCrossroad": true,
+      "isStarting": "S4",
+      "sequence": 40,
+      "tileSize": 0.050522
+    },
+    {
+      "id": "n41",
+      "x": 0.297083,
+      "y": 0.487205,
+      "tileType": "KF",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "tundra",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 41,
+      "tileSize": 0.052169
+    },
+    {
+      "id": "n42",
+      "x": 0.785491,
+      "y": 0.498959,
+      "tileType": "TP",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 42,
+      "tileSize": 0.051071
+    },
+    {
+      "id": "n43",
+      "x": 0.577833,
+      "y": 0.499635,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "volcano",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 43,
+      "tileSize": 0.046678
+    },
+    {
+      "id": "n44",
+      "x": 0.190656,
+      "y": 0.510969,
+      "tileType": "T",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "white",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 44,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n45",
+      "x": 0.410947,
+      "y": 0.513236,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 45,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n46",
+      "x": 0.854949,
+      "y": 0.51881,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 46,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n47",
+      "x": 0.650353,
+      "y": 0.527141,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 47,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n48",
+      "x": 0.908778,
+      "y": 0.533564,
+      "tileType": "KF",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 48,
+      "tileSize": 0.052169
+    },
+    {
+      "id": "n49",
+      "x": 0.144031,
+      "y": 0.559248,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 49,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n50",
+      "x": 0.366097,
+      "y": 0.580123,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 50,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n51",
+      "x": 0.925482,
+      "y": 0.580779,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 51,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n52",
+      "x": 0.622986,
+      "y": 0.5812,
+      "tileType": "CA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 52,
+      "tileSize": 0.057661
+    },
+    {
+      "id": "n53",
+      "x": 0.104753,
+      "y": 0.603842,
+      "tileType": "CA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 53,
+      "tileSize": 0.057661
+    },
+    {
+      "id": "n54",
+      "x": 0.950468,
+      "y": 0.630029,
+      "tileType": "C",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 54,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n55",
+      "x": 0.320275,
+      "y": 0.636813,
+      "tileType": "R",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "yellow",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 55,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n56",
+      "x": 0.659823,
+      "y": 0.642318,
+      "tileType": "R",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "yellow",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 56,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n57",
+      "x": 0.076926,
+      "y": 0.647792,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 57,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n58",
+      "x": 0.923015,
+      "y": 0.681665,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 58,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n59",
+      "x": 0.78086,
+      "y": 0.691812,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 59,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n60",
+      "x": 0.113008,
+      "y": 0.693838,
+      "tileType": "T",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "white",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 60,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n61",
+      "x": 0.652128,
+      "y": 0.701614,
+      "tileType": "C",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 61,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n62",
+      "x": 0.378287,
+      "y": 0.708202,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 62,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n63",
+      "x": 0.251408,
+      "y": 0.718097,
+      "tileType": "TP",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 63,
+      "tileSize": 0.051071
+    },
+    {
+      "id": "n64",
+      "x": 0.891275,
+      "y": 0.728914,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 64,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n65",
+      "x": 0.132211,
+      "y": 0.736319,
+      "tileType": "L",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 65,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n66",
+      "x": 0.609999,
+      "y": 0.762512,
+      "tileType": "GA",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "orange",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 66,
+      "tileSize": 0.059308
+    },
+    {
+      "id": "n67",
+      "x": 0.449505,
+      "y": 0.767788,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 67,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n68",
+      "x": 0.156369,
+      "y": 0.775685,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 68,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n69",
+      "x": 0.864266,
+      "y": 0.78241,
+      "tileType": "T",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "white",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 69,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n70",
+      "x": 0.190573,
+      "y": 0.819817,
+      "tileType": "E",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 70,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n71",
+      "x": 0.833446,
+      "y": 0.820694,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 71,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n72",
+      "x": 0.535544,
+      "y": 0.828304,
+      "tileType": "S3",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": "S3",
+      "sequence": 72,
+      "tileSize": 0.050522
+    },
+    {
+      "id": "n73",
+      "x": 0.777351,
+      "y": 0.839346,
+      "tileType": "B",
+      "bossRarity": "common",
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "grey",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 73,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n74",
+      "x": 0.25663,
+      "y": 0.84459,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 74,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n75",
+      "x": 0.471435,
+      "y": 0.848495,
+      "tileType": "O",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "green",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 75,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n76",
+      "x": 0.602401,
+      "y": 0.852907,
+      "tileType": "MD",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "pink",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 76,
+      "tileSize": 0.066447
+    },
+    {
+      "id": "n77",
+      "x": 0.723496,
+      "y": 0.855016,
+      "tileType": "E",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 77,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n78",
+      "x": 0.326055,
+      "y": 0.856843,
+      "tileType": "H",
+      "bossRarity": null,
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "blue",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 78,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n79",
+      "x": 0.404135,
+      "y": 0.864748,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "ocean",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 79,
+      "tileSize": 0.048874
+    },
+    {
+      "id": "n80",
+      "x": 0.665456,
+      "y": 0.866414,
+      "tileType": "B",
+      "bossRarity": "epic",
+      "pathLayer": "outer",
+      "theme": "mountains",
+      "labelColor": "red",
+      "isCrossroad": false,
+      "isStarting": null,
+      "sequence": 80,
+      "tileSize": 0.048874
+    }
+  ],
+  "edges": [
+    {
+      "from": "n1",
+      "to": "n3",
+      "bidirectional": true
+    },
+    {
+      "from": "n1",
+      "to": "n4",
+      "bidirectional": true
+    },
+    {
+      "from": "n2",
+      "to": "n5",
+      "bidirectional": true
+    },
+    {
+      "from": "n2",
+      "to": "n8",
+      "bidirectional": true
+    },
+    {
+      "from": "n3",
+      "to": "n7",
+      "bidirectional": true
+    },
+    {
+      "from": "n4",
+      "to": "n6",
+      "bidirectional": true
+    },
+    {
+      "from": "n6",
+      "to": "n9",
+      "bidirectional": true
+    },
+    {
+      "from": "n7",
+      "to": "n10",
+      "bidirectional": true
+    },
+    {
+      "from": "n8",
+      "to": "n12",
+      "bidirectional": true
+    },
+    {
+      "from": "n9",
+      "to": "n13",
+      "bidirectional": true
+    },
+    {
+      "from": "n10",
+      "to": "n14",
+      "bidirectional": true
+    },
+    {
+      "from": "n12",
+      "to": "n16",
+      "bidirectional": true
+    },
+    {
+      "from": "n13",
+      "to": "n15",
+      "bidirectional": true
+    },
+    {
+      "from": "n13",
+      "to": "n17",
+      "bidirectional": true
+    },
+    {
+      "from": "n14",
+      "to": "n19",
+      "bidirectional": true
+    },
+    {
+      "from": "n16",
+      "to": "n20",
+      "bidirectional": true
+    },
+    {
+      "from": "n17",
+      "to": "n21",
+      "bidirectional": true
+    },
+    {
+      "from": "n18",
+      "to": "n22",
+      "bidirectional": true
+    },
+    {
+      "from": "n19",
+      "to": "n24",
+      "bidirectional": true
+    },
+    {
+      "from": "n20",
+      "to": "n25",
+      "bidirectional": true
+    },
+    {
+      "from": "n21",
+      "to": "n26",
+      "bidirectional": true
+    },
+    {
+      "from": "n22",
+      "to": "n23",
+      "bidirectional": true
+    },
+    {
+      "from": "n22",
+      "to": "n27",
+      "bidirectional": true
+    },
+    {
+      "from": "n23",
+      "to": "n25",
+      "bidirectional": true
+    },
+    {
+      "from": "n24",
+      "to": "n29",
+      "bidirectional": true
+    },
+    {
+      "from": "n25",
+      "to": "n28",
+      "bidirectional": true
+    },
+    {
+      "from": "n26",
+      "to": "n30",
+      "bidirectional": true
+    },
+    {
+      "from": "n27",
+      "to": "n32",
+      "bidirectional": true
+    },
+    {
+      "from": "n28",
+      "to": "n31",
+      "bidirectional": true
+    },
+    {
+      "from": "n29",
+      "to": "n33",
+      "bidirectional": true
+    },
+    {
+      "from": "n29",
+      "to": "n36",
+      "bidirectional": true
+    },
+    {
+      "from": "n30",
+      "to": "n39",
+      "bidirectional": true
+    },
+    {
+      "from": "n31",
+      "to": "n34",
+      "bidirectional": true
+    },
+    {
+      "from": "n32",
+      "to": "n35",
+      "bidirectional": true
+    },
+    {
+      "from": "n32",
+      "to": "n37",
+      "bidirectional": true
+    },
+    {
+      "from": "n33",
+      "to": "n39",
+      "bidirectional": true
+    },
+    {
+      "from": "n34",
+      "to": "n40",
+      "bidirectional": true
+    },
+    {
+      "from": "n35",
+      "to": "n40",
+      "bidirectional": true
+    },
+    {
+      "from": "n36",
+      "to": "n38",
+      "bidirectional": true
+    },
+    {
+      "from": "n36",
+      "to": "n45",
+      "bidirectional": true
+    },
+    {
+      "from": "n37",
+      "to": "n38",
+      "bidirectional": true
+    },
+    {
+      "from": "n37",
+      "to": "n43",
+      "bidirectional": true
+    },
+    {
+      "from": "n39",
+      "to": "n41",
+      "bidirectional": true
+    },
+    {
+      "from": "n39",
+      "to": "n44",
+      "bidirectional": true
+    },
+    {
+      "from": "n40",
+      "to": "n42",
+      "bidirectional": true
+    },
+    {
+      "from": "n42",
+      "to": "n46",
+      "bidirectional": true
+    },
+    {
+      "from": "n43",
+      "to": "n47",
+      "bidirectional": true
+    },
+    {
+      "from": "n44",
+      "to": "n49",
+      "bidirectional": true
+    },
+    {
+      "from": "n45",
+      "to": "n50",
+      "bidirectional": true
+    },
+    {
+      "from": "n46",
+      "to": "n48",
+      "bidirectional": true
+    },
+    {
+      "from": "n48",
+      "to": "n51",
+      "bidirectional": true
+    },
+    {
+      "from": "n49",
+      "to": "n53",
+      "bidirectional": true
+    },
+    {
+      "from": "n50",
+      "to": "n55",
+      "bidirectional": true
+    },
+    {
+      "from": "n51",
+      "to": "n54",
+      "bidirectional": true
+    },
+    {
+      "from": "n52",
+      "to": "n56",
+      "bidirectional": true
+    },
+    {
+      "from": "n53",
+      "to": "n57",
+      "bidirectional": true
+    },
+    {
+      "from": "n54",
+      "to": "n58",
+      "bidirectional": true
+    },
+    {
+      "from": "n56",
+      "to": "n61",
+      "bidirectional": true
+    },
+    {
+      "from": "n57",
+      "to": "n60",
+      "bidirectional": true
+    },
+    {
+      "from": "n58",
+      "to": "n64",
+      "bidirectional": true
+    },
+    {
+      "from": "n60",
+      "to": "n65",
+      "bidirectional": true
+    },
+    {
+      "from": "n61",
+      "to": "n66",
+      "bidirectional": true
+    },
+    {
+      "from": "n62",
+      "to": "n67",
+      "bidirectional": true
+    },
+    {
+      "from": "n64",
+      "to": "n69",
+      "bidirectional": true
+    },
+    {
+      "from": "n65",
+      "to": "n68",
+      "bidirectional": true
+    },
+    {
+      "from": "n68",
+      "to": "n70",
+      "bidirectional": true
+    },
+    {
+      "from": "n69",
+      "to": "n71",
+      "bidirectional": true
+    },
+    {
+      "from": "n70",
+      "to": "n74",
+      "bidirectional": true
+    },
+    {
+      "from": "n71",
+      "to": "n73",
+      "bidirectional": true
+    },
+    {
+      "from": "n72",
+      "to": "n75",
+      "bidirectional": true
+    },
+    {
+      "from": "n72",
+      "to": "n76",
+      "bidirectional": true
+    },
+    {
+      "from": "n73",
+      "to": "n77",
+      "bidirectional": true
+    },
+    {
+      "from": "n74",
+      "to": "n78",
+      "bidirectional": true
+    },
+    {
+      "from": "n75",
+      "to": "n79",
+      "bidirectional": true
+    },
+    {
+      "from": "n76",
+      "to": "n80",
+      "bidirectional": true
+    },
+    {
+      "from": "n77",
+      "to": "n80",
+      "bidirectional": true
+    },
+    {
+      "from": "n78",
+      "to": "n79",
+      "bidirectional": true
+    },
+    {
+      "from": "n45",
+      "to": "n41",
+      "bidirectional": true
+    },
+    {
+      "from": "n63",
+      "to": "n68",
+      "bidirectional": true
+    },
+    {
+      "from": "n63",
+      "to": "n55",
+      "bidirectional": true
+    },
+    {
+      "from": "n72",
+      "to": "n66",
+      "bidirectional": true
+    },
+    {
+      "from": "n72",
+      "to": "n67",
+      "bidirectional": true
+    },
+    {
+      "from": "n59",
+      "to": "n56",
+      "bidirectional": true
+    },
+    {
+      "from": "n59",
+      "to": "n64",
+      "bidirectional": true
+    },
+    {
+      "from": "n11",
+      "to": "n7",
+      "bidirectional": true
+    },
+    {
+      "from": "n11",
+      "to": "n18",
+      "bidirectional": true
+    },
+    {
+      "from": "n7",
+      "to": "n5",
+      "bidirectional": true
+    },
+    {
+      "from": "n15",
+      "to": "n19",
+      "bidirectional": true
+    },
+    {
+      "from": "n43",
+      "to": "n52",
+      "bidirectional": true
+    },
+    {
+      "from": "n55",
+      "to": "n62",
+      "bidirectional": true
+    }
+  ],
+  "meta": {
+    "cutLine": {
+      "from": "S1",
+      "to": "S3"
+    },
+    "importedFromSketch": true,
+    "importSource": "pdf-text-layer",
+    "needsLabelCount": 0,
+    "tilePixelSize": 36
+  }
+}

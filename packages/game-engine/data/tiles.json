@@ -1,0 +1,15 @@
+{
+  "O": "Draw 1 opportunity card",
+  "B": "Challenge boss on tile",
+  "R": "Challenge relic boss",
+  "MD": "Gain Magic Dice counter",
+  "TP": "Teleport to chosen tile",
+  "H": "Heal 3 HP",
+  "E": "Exchange currencies",
+  "C": "Cave exploration",
+  "CA": "Casino bet",
+  "GA": "Grand Auction",
+  "KF": "King's Favor (+1 MD)",
+  "T": "Pay tax (up to 2G)",
+  "L": "Loot +1G"
+}
