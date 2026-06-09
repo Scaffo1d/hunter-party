@@ -9,8 +9,16 @@ Two services: **Vercel** (Next.js frontend) + **Render** (Socket.IO game server)
 
 ## 1. Deploy game server (Render)
 
+**One-click (recommended):** [Deploy to Render](https://render.com/deploy?repo=https://github.com/Scaffo1d/hunter-party)
+
+1. Sign in to Render with **GitHub** (same account that owns the repo)
+2. Approve the Blueprint — it reads [`render.yaml`](render.yaml) and creates `hunter-party-api`
+3. When prompted for `CORS_ORIGIN`, use `http://localhost:3000` until Vercel is live, then update to your Vercel URL
+
+Manual path:
+
 1. Render Dashboard → **New +** → **Blueprint** (or **Web Service**)
-2. Connect your GitHub repo
+2. Connect your GitHub repo `Scaffo1d/hunter-party`
 3. If using the included [`render.yaml`](render.yaml), approve the blueprint
 4. Or configure manually:
    - **Root Directory**: (repo root)
