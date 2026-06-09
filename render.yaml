@@ -1,11 +1,16 @@
+# Render Blueprint — https://dashboard.render.com/select-repo?type=blueprint
 services:
   - type: web
     name: hunter-party-api
     runtime: node
     plan: free
+    region: oregon
+    repo: https://github.com/Scaffo1d/hunter-party
+    branch: main
     buildCommand: npm ci && npm run build:server
     startCommand: npm run start:server
     healthCheckPath: /health
+    autoDeploy: true
     envVars:
       - key: NODE_ENV
         value: production
